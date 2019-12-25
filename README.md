@@ -1,6 +1,20 @@
-### Hotel Booking App
+### Ionic3 Hotel Booking App
 
-This is a hybrid mobile application built on top of Ionic 2 framework. This mobile application allows user to book their hotel effortlessly. PHP will be the backend of the mobile application to handle all the data query and data store.
+This is a hybrid mobile application built on top of Ionic 3 framework. This mobile application allows user to book their hotel effortlessly. PHP will be the backend of the mobile application to handle all the data query and data store.
+
+## Getting Started
+
+### Clone the repo via git:
+
+    $ git clone https://github.com/islem1018/ionic3-hotel-booking-app.git
+
+### Install the dependencies using npm
+
+    $ npm install
+
+### Run the app
+
+    $ ionic serve
 
 ### Screenshots
 
