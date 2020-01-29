@@ -1,26 +1,23 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+### Ionic3 Hotel Booking App
 
-## How to use this template
+This is a hybrid mobile application built on top of Ionic 3 framework. This mobile application allows user to book their hotel effortlessly. PHP will be the backend of the mobile application to handle all the data query and data store.
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/driftyco/ionic2-app-base).
+## Getting Started
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/driftyco/ionic2-app-base).
+### Clone the repo via git:
 
-### With the Ionic CLI:
+    $ git clone https://github.com/m-maximjuk/ionic3-hotel-booking-app.git
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+### Install the dependencies using npm
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTabs tabs
-```
+    $ npm install
 
-Then, to run it, cd into `myTabs` and run:
+### Run the app
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
+    $ ionic serve
 
-Substitute ios for android if not on a Mac.
+### Screenshots
 
+<img src="/mobile/1.PNG" width="40%"> <img src="/mobile/2.PNG" width="40%">
+<img src="/mobile/3.PNG" width="40%"> <img src="/mobile/4.PNG" width="40%">
+<img src="/mobile/5.PNG" width="40%"> <img src="/mobile/6.PNG" width="40%">
